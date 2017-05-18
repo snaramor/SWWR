@@ -1,0 +1,100 @@
+{
+    "FileVersion": 3,
+    "EngineAssociation": "4.13",
+    "Category": "",
+    "Description": "",
+    "Modules": [
+        {
+            "Name": "SWWR",
+            "Type": "Runtime",
+            "LoadingPhase": "Default",
+            "AdditionalDependencies": [
+                "Engine",
+                "UMGEditor",
+                "UMG"
+            ]
+        }
+    ],
+    "Plugins": [
+        {
+            "Name": "GearVR",
+            "Enabled": false
+        },
+        {
+            "Name": "OculusInput",
+            "Enabled": false
+        },
+        {
+            "Name": "OculusLibrary",
+            "Enabled": false
+        },
+        {
+            "Name": "OculusRift",
+            "Enabled": false
+        },
+        {
+            "Name": "SteamVR",
+            "Enabled": false
+        },
+        {
+            "Name": "XCodeSourceCodeAccess",
+            "Enabled": false
+        },
+        {
+            "Name": "NullSourceCodeAccess",
+            "Enabled": false
+        },
+        {
+            "Name": "KDevelopSourceCodeAccess",
+            "Enabled": false
+        },
+        {
+            "Name": "CodeLiteSourceCodeAccess",
+            "Enabled": false
+        },
+        {
+            "Name": "AndroidMoviePlayer",
+            "Enabled": false
+        },
+        {
+            "Name": "AppleMoviePlayer",
+            "Enabled": false
+        },
+        {
+            "Name": "WindowsMoviePlayer",
+            "Enabled": false
+        },
+        {
+            "Name": "EpicSurvey",
+            "Enabled": false
+        },
+        {
+            "Name": "HTML5Networking",
+            "Enabled": false
+        },
+        {
+            "Name": "MacGraphicsSwitching",
+            "Enabled": false
+        },
+        {
+            "Name": "AndroidMedia",
+            "Enabled": false
+        },
+        {
+            "Name": "AvfMedia",
+            "Enabled": false
+        },
+        {
+            "Name": "WmfMedia",
+            "Enabled": false
+        },
+        {
+            "Name": "AlembicImporter",
+            "Enabled": false
+        },
+        {
+            "Name": "UObjectPlugin",
+            "Enabled": false
+        }
+    ]
+}
